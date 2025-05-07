@@ -1,1 +1,1 @@
-# Library-Management
+Library Management System: is a web-based application developed using JSP, JSP Beans, and Java. It enables admins to manage books, track overdue returns with fines, enforce a 4-book issue limit per user, and restrict issuing if only one copy remains. The system separates functionalities into individual JSP pages and uses JavaBeans for business logic and data handling, ensuring modularity and maintainability.
